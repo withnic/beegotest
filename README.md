@@ -1,0 +1,2 @@
+# beegotest
+golang の beegoのテスト
